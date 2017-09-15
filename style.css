@@ -1,0 +1,16 @@
+#can{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 50px;
+    border: 2px dashed darkolivegreen;
+}
+
+#boxOfTools{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 400px;
+    width: 680px;
+    height: 400px;
+    background-color: burlywood;
+    padding: 10px;
+}
